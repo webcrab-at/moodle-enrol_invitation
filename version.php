@@ -27,8 +27,8 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version  = 2023102400;
+$plugin->version  = 2023102401;
 $plugin->requires = 2013111800;   // Moodle 3.9.
 $plugin->maturity = MATURITY_STABLE;
-$plugin->release   = '2.2.1';
+$plugin->release   = '2.2.1-a';
 $plugin->component = "enrol_invitation";
